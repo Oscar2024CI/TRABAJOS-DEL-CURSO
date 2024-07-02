@@ -17,4 +17,4 @@ frecuencia = frecuencia_palabras(cadena)
 print("Frecuencia de palabras:", frecuencia)
 
 palabra_mas_repetida, frecuencia = palabra_mas_repetida(frecuencia)
-print("La palabra más repetida es:", palabra_mas_repetida, "con una frecuencia de:", frecuencia)
+print("La palabra más repetida es:", palabra_mas_repetida, "Con una frecuencia de:", frecuencia)
